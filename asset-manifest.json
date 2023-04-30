@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/marketmon/pudding-pitch.git/static/css/main.bdae5ec4.css",
-    "main.js": "/marketmon/pudding-pitch.git/static/js/main.d3fc3d56.js",
+    "main.css": "/marketmon/pudding-pitch.git/static/css/main.2bfaed75.css",
+    "main.js": "/marketmon/pudding-pitch.git/static/js/main.466ebcd9.js",
     "static/js/787.5c0a4146.chunk.js": "/marketmon/pudding-pitch.git/static/js/787.5c0a4146.chunk.js",
     "static/media/simple_bank.png": "/marketmon/pudding-pitch.git/static/media/simple_bank.8e5f5904a629704d1421.png",
     "static/media/harvard.png": "/marketmon/pudding-pitch.git/static/media/harvard.b209991fe64c14710993.png",
     "index.html": "/marketmon/pudding-pitch.git/index.html",
-    "main.bdae5ec4.css.map": "/marketmon/pudding-pitch.git/static/css/main.bdae5ec4.css.map",
-    "main.d3fc3d56.js.map": "/marketmon/pudding-pitch.git/static/js/main.d3fc3d56.js.map",
+    "main.2bfaed75.css.map": "/marketmon/pudding-pitch.git/static/css/main.2bfaed75.css.map",
+    "main.466ebcd9.js.map": "/marketmon/pudding-pitch.git/static/js/main.466ebcd9.js.map",
     "787.5c0a4146.chunk.js.map": "/marketmon/pudding-pitch.git/static/js/787.5c0a4146.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdae5ec4.css",
-    "static/js/main.d3fc3d56.js"
+    "static/css/main.2bfaed75.css",
+    "static/js/main.466ebcd9.js"
   ]
 }
