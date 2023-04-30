@@ -1,0 +1,70 @@
+[
+    {
+        "election_year": 1990,
+        "donations": 162238475.25
+    },
+    {
+        "election_year": 1992,
+        "donations": 274392875.73
+    },
+    {
+        "election_year": 1994,
+        "donations": 232116049.69
+    },
+    {
+        "election_year": 1996,
+        "donations": 361465980.92
+    },
+    {
+        "election_year": 1998,
+        "donations": 298778288.3
+    },
+    {
+        "election_year": 2000,
+        "donations": 569584835.76
+    },
+    {
+        "election_year": 2002,
+        "donations": 411971234.08
+    },
+    {
+        "election_year": 2004,
+        "donations": 599639157
+    },
+    {
+        "election_year": 2006,
+        "donations": 456129218.58
+    },
+    {
+        "election_year": 2008,
+        "donations": 747019667.1
+    },
+    {
+        "election_year": 2010,
+        "donations": 467065649.25
+    },
+    {
+        "election_year": 2012,
+        "donations": 966103230.72
+    },
+    {
+        "election_year": 2014,
+        "donations": 686694099.36
+    },
+    {
+        "election_year": 2016,
+        "donations": 1416051718.8
+    },
+    {
+        "election_year": 2018,
+        "donations": 1118872041.3
+    },
+    {
+        "election_year": 2020,
+        "donations": 2232167836.71
+    },
+    {
+        "election_year": 2022,
+        "donations": 1610655955
+    }
+]

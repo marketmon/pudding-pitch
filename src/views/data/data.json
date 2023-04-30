@@ -1,0 +1,530 @@
+[
+    {
+        "BANKS": 14125,
+        "NETINC": 174000,
+        "YEAR": 1935,
+        "NETINC_ADJ": 3739094.89
+    },
+    {
+        "BANKS": 13973,
+        "NETINC": 490000,
+        "YEAR": 1936,
+        "NETINC_ADJ": 10378129.5
+    },
+    {
+        "BANKS": 13797,
+        "NETINC": 357000,
+        "YEAR": 1937,
+        "NETINC_ADJ": 7298666.67
+    },
+    {
+        "BANKS": 13661,
+        "NETINC": 281000,
+        "YEAR": 1938,
+        "NETINC_ADJ": 5867120.57
+    },
+    {
+        "BANKS": 13538,
+        "NETINC": 370000,
+        "YEAR": 1939,
+        "NETINC_ADJ": 7836546.76
+    },
+    {
+        "BANKS": 13442,
+        "NETINC": 383000,
+        "YEAR": 1940,
+        "NETINC_ADJ": 8053942.86
+    },
+    {
+        "BANKS": 13430,
+        "NETINC": 436000,
+        "YEAR": 1941,
+        "NETINC_ADJ": 8731863.95
+    },
+    {
+        "BANKS": 13347,
+        "NETINC": 426000,
+        "YEAR": 1942,
+        "NETINC_ADJ": 7694134.97
+    },
+    {
+        "BANKS": 13274,
+        "NETINC": 623000,
+        "YEAR": 1943,
+        "NETINC_ADJ": 10601803.47
+    },
+    {
+        "BANKS": 13268,
+        "NETINC": 736000,
+        "YEAR": 1944,
+        "NETINC_ADJ": 12311272.73
+    },
+    {
+        "BANKS": 13302,
+        "NETINC": 894000,
+        "YEAR": 1945,
+        "NETINC_ADJ": 14621866.67
+    },
+    {
+        "BANKS": 13359,
+        "NETINC": 894000,
+        "YEAR": 1946,
+        "NETINC_ADJ": 13497107.69
+    },
+    {
+        "BANKS": 13403,
+        "NETINC": 775000,
+        "YEAR": 1947,
+        "NETINC_ADJ": 10231390.13
+    },
+    {
+        "BANKS": 13419,
+        "NETINC": 941000,
+        "YEAR": 1948,
+        "NETINC_ADJ": 11542933.33
+    },
+    {
+        "BANKS": 13436,
+        "NETINC": 968000,
+        "YEAR": 1949,
+        "NETINC_ADJ": 11973915.97
+    },
+    {
+        "BANKS": 13446,
+        "NETINC": 1072000,
+        "YEAR": 1950,
+        "NETINC_ADJ": 13095302.9
+    },
+    {
+        "BANKS": 13455,
+        "NETINC": 1047000,
+        "YEAR": 1951,
+        "NETINC_ADJ": 11855261.54
+    },
+    {
+        "BANKS": 13439,
+        "NETINC": 1067000,
+        "YEAR": 1952,
+        "NETINC_ADJ": 11809203.01
+    },
+    {
+        "BANKS": 13432,
+        "NETINC": 1070000,
+        "YEAR": 1953,
+        "NETINC_ADJ": 11754029.85
+    },
+    {
+        "BANKS": 13323,
+        "NETINC": 1473000,
+        "YEAR": 1954,
+        "NETINC_ADJ": 16120862.45
+    },
+    {
+        "BANKS": 13237,
+        "NETINC": 1320000,
+        "YEAR": 1955,
+        "NETINC_ADJ": 14500298.51
+    },
+    {
+        "BANKS": 13218,
+        "NETINC": 1476000,
+        "YEAR": 1956,
+        "NETINC_ADJ": 15975529.41
+    },
+    {
+        "BANKS": 13165,
+        "NETINC": 1578000,
+        "YEAR": 1957,
+        "NETINC_ADJ": 16532498.22
+    },
+    {
+        "BANKS": 13124,
+        "NETINC": 2082000,
+        "YEAR": 1958,
+        "NETINC_ADJ": 21209024.22
+    },
+    {
+        "BANKS": 13114,
+        "NETINC": 1553000,
+        "YEAR": 1959,
+        "NETINC_ADJ": 15657643.84
+    },
+    {
+        "BANKS": 13126,
+        "NETINC": 2257000,
+        "YEAR": 1960,
+        "NETINC_ADJ": 22448000
+    },
+    {
+        "BANKS": 13115,
+        "NETINC": 2374000,
+        "YEAR": 1961,
+        "NETINC_ADJ": 23374769.23
+    },
+    {
+        "BANKS": 13124,
+        "NETINC": 2348000,
+        "YEAR": 1962,
+        "NETINC_ADJ": 22813570.96
+    },
+    {
+        "BANKS": 13291,
+        "NETINC": 2393000,
+        "YEAR": 1963,
+        "NETINC_ADJ": 23022849.67
+    },
+    {
+        "BANKS": 13493,
+        "NETINC": 2602000,
+        "YEAR": 1964,
+        "NETINC_ADJ": 24710606.45
+    },
+    {
+        "BANKS": 13544,
+        "NETINC": 2861412,
+        "YEAR": 1965,
+        "NETINC_ADJ": 26742847.39
+    },
+    {
+        "BANKS": 13538,
+        "NETINC": 3039647,
+        "YEAR": 1966,
+        "NETINC_ADJ": 27534525.44
+    },
+    {
+        "BANKS": 13514,
+        "NETINC": 3508846,
+        "YEAR": 1967,
+        "NETINC_ADJ": 30928271.33
+    },
+    {
+        "BANKS": 13487,
+        "NETINC": 3786000,
+        "YEAR": 1968,
+        "NETINC_ADJ": 32028689.66
+    },
+    {
+        "BANKS": 13473,
+        "NETINC": 4333850,
+        "YEAR": 1969,
+        "NETINC_ADJ": 34765270.84
+    },
+    {
+        "BANKS": 13511,
+        "NETINC": 4837040,
+        "YEAR": 1970,
+        "NETINC_ADJ": 36701664.33
+    },
+    {
+        "BANKS": 13612,
+        "NETINC": 5236361,
+        "YEAR": 1971,
+        "NETINC_ADJ": 38063819.22
+    },
+    {
+        "BANKS": 13733,
+        "NETINC": 5655762,
+        "YEAR": 1972,
+        "NETINC_ADJ": 39833883.56
+    },
+    {
+        "BANKS": 13976,
+        "NETINC": 6581866,
+        "YEAR": 1973,
+        "NETINC_ADJ": 43641922.31
+    },
+    {
+        "BANKS": 14230,
+        "NETINC": 7078920,
+        "YEAR": 1974,
+        "NETINC_ADJ": 42272495.9
+    },
+    {
+        "BANKS": 14384,
+        "NETINC": 7255000,
+        "YEAR": 1975,
+        "NETINC_ADJ": 39700223.05
+    },
+    {
+        "BANKS": 14410,
+        "NETINC": 7843000,
+        "YEAR": 1976,
+        "NETINC_ADJ": 40579599.3
+    },
+    {
+        "BANKS": 14411,
+        "NETINC": 8879000,
+        "YEAR": 1977,
+        "NETINC_ADJ": 43134943.89
+    },
+    {
+        "BANKS": 14391,
+        "NETINC": 10759000,
+        "YEAR": 1978,
+        "NETINC_ADJ": 48580515.34
+    },
+    {
+        "BANKS": 14364,
+        "NETINC": 12838000,
+        "YEAR": 1979,
+        "NETINC_ADJ": 52059327.82
+    },
+    {
+        "BANKS": 14434,
+        "NETINC": 14010000,
+        "YEAR": 1980,
+        "NETINC_ADJ": 50055145.63
+    },
+    {
+        "BANKS": 14414,
+        "NETINC": 14803000,
+        "YEAR": 1981,
+        "NETINC_ADJ": 47942829.48
+    },
+    {
+        "BANKS": 14451,
+        "NETINC": 14996000,
+        "YEAR": 1982,
+        "NETINC_ADJ": 45749454.92
+    },
+    {
+        "BANKS": 14469,
+        "NETINC": 14931000,
+        "YEAR": 1983,
+        "NETINC_ADJ": 44133397.59
+    },
+    {
+        "BANKS": 14259,
+        "NETINC": 15501811,
+        "YEAR": 1984,
+        "NETINC_ADJ": 43924284.49
+    },
+    {
+        "BANKS": 14204,
+        "NETINC": 17977015,
+        "YEAR": 1985,
+        "NETINC_ADJ": 49186182.3
+    },
+    {
+        "BANKS": 14025,
+        "NETINC": 17417674,
+        "YEAR": 1986,
+        "NETINC_ADJ": 46786160.82
+    },
+    {
+        "BANKS": 13582,
+        "NETINC": 2803219,
+        "YEAR": 1987,
+        "NETINC_ADJ": 7264680.23
+    },
+    {
+        "BANKS": 12967,
+        "NETINC": 24812194,
+        "YEAR": 1988,
+        "NETINC_ADJ": 61747336.55
+    },
+    {
+        "BANKS": 12574,
+        "NETINC": 15574853,
+        "YEAR": 1989,
+        "NETINC_ADJ": 36977715.51
+    },
+    {
+        "BANKS": 12225,
+        "NETINC": 15991078,
+        "YEAR": 1990,
+        "NETINC_ADJ": 36019689.08
+    },
+    {
+        "BANKS": 11851,
+        "NETINC": 17935435,
+        "YEAR": 1991,
+        "NETINC_ADJ": 38767929.99
+    },
+    {
+        "BANKS": 11392,
+        "NETINC": 31990373,
+        "YEAR": 1992,
+        "NETINC_ADJ": 67127340.07
+    },
+    {
+        "BANKS": 10894,
+        "NETINC": 43041783,
+        "YEAR": 1993,
+        "NETINC_ADJ": 87692047.86
+    },
+    {
+        "BANKS": 10418,
+        "NETINC": 44624072,
+        "YEAR": 1994,
+        "NETINC_ADJ": 88645929.8
+    },
+    {
+        "BANKS": 9898,
+        "NETINC": 48776028,
+        "YEAR": 1995,
+        "NETINC_ADJ": 94223508.16
+    },
+    {
+        "BANKS": 9479,
+        "NETINC": 52324224,
+        "YEAR": 1996,
+        "NETINC_ADJ": 98178786.14
+    },
+    {
+        "BANKS": 9077,
+        "NETINC": 59159284,
+        "YEAR": 1997,
+        "NETINC_ADJ": 108513976.38
+    },
+    {
+        "BANKS": 8707,
+        "NETINC": 61885315,
+        "YEAR": 1998,
+        "NETINC_ADJ": 111773231.51
+    },
+    {
+        "BANKS": 8450,
+        "NETINC": 71527729,
+        "YEAR": 1999,
+        "NETINC_ADJ": 126397139.36
+    },
+    {
+        "BANKS": 8198,
+        "NETINC": 70795046,
+        "YEAR": 2000,
+        "NETINC_ADJ": 121034039.15
+    },
+    {
+        "BANKS": 7997,
+        "NETINC": 74131124,
+        "YEAR": 2001,
+        "NETINC_ADJ": 123230959.38
+    },
+    {
+        "BANKS": 7802,
+        "NETINC": 89439142,
+        "YEAR": 2002,
+        "NETINC_ADJ": 146363998.91
+    },
+    {
+        "BANKS": 7697,
+        "NETINC": 102566180,
+        "YEAR": 2003,
+        "NETINC_ADJ": 164105888
+    },
+    {
+        "BANKS": 7569,
+        "NETINC": 104021848,
+        "YEAR": 2004,
+        "NETINC_ADJ": 162117692.17
+    },
+    {
+        "BANKS": 7466,
+        "NETINC": 113965005,
+        "YEAR": 2005,
+        "NETINC_ADJ": 171793637.85
+    },
+    {
+        "BANKS": 7404,
+        "NETINC": 128266630,
+        "YEAR": 2006,
+        "NETINC_ADJ": 187309999.37
+    },
+    {
+        "BANKS": 7290,
+        "NETINC": 97639154,
+        "YEAR": 2007,
+        "NETINC_ADJ": 138663612.82
+    },
+    {
+        "BANKS": 7088,
+        "NETINC": 15262023,
+        "YEAR": 2008,
+        "NETINC_ADJ": 20869203.77
+    },
+    {
+        "BANKS": 6830,
+        "NETINC": -11619811,
+        "YEAR": 2009,
+        "NETINC_ADJ": -15948122.88
+    },
+    {
+        "BANKS": 6534,
+        "NETINC": 77427236,
+        "YEAR": 2010,
+        "NETINC_ADJ": 104514343.32
+    },
+    {
+        "BANKS": 6281,
+        "NETINC": 110182982,
+        "YEAR": 2011,
+        "NETINC_ADJ": 144232413.97
+    },
+    {
+        "BANKS": 6089,
+        "NETINC": 130041412,
+        "YEAR": 2012,
+        "NETINC_ADJ": 166742995.18
+    },
+    {
+        "BANKS": 5853,
+        "NETINC": 143110234,
+        "YEAR": 2013,
+        "NETINC_ADJ": 180822544.59
+    },
+    {
+        "BANKS": 5611,
+        "NETINC": 140189718,
+        "YEAR": 2014,
+        "NETINC_ADJ": 174363552.93
+    },
+    {
+        "BANKS": 5350,
+        "NETINC": 151896097,
+        "YEAR": 2015,
+        "NETINC_ADJ": 188684434.42
+    },
+    {
+        "BANKS": 5117,
+        "NETINC": 156685060,
+        "YEAR": 2016,
+        "NETINC_ADJ": 192200340.27
+    },
+    {
+        "BANKS": 4920,
+        "NETINC": 151492098,
+        "YEAR": 2017,
+        "NETINC_ADJ": 181963580.79
+    },
+    {
+        "BANKS": 4718,
+        "NETINC": 222055190,
+        "YEAR": 2018,
+        "NETINC_ADJ": 260346666.41
+    },
+    {
+        "BANKS": 4525,
+        "NETINC": 217602173,
+        "YEAR": 2019,
+        "NETINC_ADJ": 250536095.94
+    },
+    {
+        "BANKS": 4379,
+        "NETINC": 136465660,
+        "YEAR": 2020,
+        "NETINC_ADJ": 155237597.77
+    },
+    {
+        "BANKS": 4237,
+        "NETINC": 263161914,
+        "YEAR": 2021,
+        "NETINC_ADJ": 285885119.86
+    },
+    {
+        "BANKS": 4135,
+        "NETINC": 250013561,
+        "YEAR": 2022,
+        "NETINC_ADJ": 250013561
+    }
+]
