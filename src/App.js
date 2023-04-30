@@ -101,7 +101,6 @@ const ScrollamaDemo = () => {
                 <p style={{
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -136,7 +135,6 @@ const ScrollamaDemo = () => {
                 <p style={{
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -170,7 +168,6 @@ const ScrollamaDemo = () => {
                 <p style={{
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -204,7 +201,6 @@ const ScrollamaDemo = () => {
                 <p style={{
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -238,7 +234,6 @@ const ScrollamaDemo = () => {
                 <p style={{
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -272,7 +267,6 @@ const ScrollamaDemo = () => {
                 <p style={{
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -307,7 +301,6 @@ const ScrollamaDemo = () => {
                   width: '600px',
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -342,7 +335,6 @@ const ScrollamaDemo = () => {
                   width: '600px',
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -377,7 +369,6 @@ const ScrollamaDemo = () => {
                   width: '600px',
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -411,7 +402,6 @@ const ScrollamaDemo = () => {
                   width: 'fit-content',
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>
@@ -445,7 +435,6 @@ const ScrollamaDemo = () => {
                   width: '600px',
                   fontFamily: 'inter',
                   fontSize: '1.5rem',
-                  padding: '5px',
                   color: 'white',
                   padding: '10px',
                 }}>

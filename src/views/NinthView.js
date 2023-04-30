@@ -6,6 +6,7 @@ export default function NinthView() {
             <div style={{ display: 'flex', width: '85vw', justifyContent: 'space-between', alignItems: 'center' }}>
                 <img
                     src="https://assets.change.org/photos/9/vr/ag/irVRAgsQDsUYddJ-800x450-noPad.jpg?1535061405"
+                    alt="huntsman hall"
                     style={{ width: '500px', height: 'auto' }}
                 />
                 <div style={{ width: '500px', textAlign: 'center', fontFamily: 'inter', fontSize: '1.2rem' }}>

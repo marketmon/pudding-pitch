@@ -5,15 +5,18 @@ export default function ThirdView() {
         <div style={{ width: '100vw', display: 'flex', justifyContent: 'center' }}>
             <div style={{ display: 'flex', alignItems: 'center' }}>
                 <img
+                    alt="simple finance map"
                     src="https://www.i1.creditdonkey.com/image/1/540w/how-banks-work-diagram-v2.png"
                     style={{ width: '350px', animation: 'fadeIn 1s ease-in-out forwards' }}
                 />
                 <img
+                    alt="old time bank"
                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jamestown._The_old_Savings_Bank_of_South_Australia._A_grand_19th_century_style_bank_building._%2844043913335%29.jpg/800px-Jamestown._The_old_Savings_Bank_of_South_Australia._A_grand_19th_century_style_bank_building._%2844043913335%29.jpg?20191210204218"
                     style={{ width: '350px', height: '300px', animation: 'fadeIn 1s ease-in-out 0.5s forwards' }}
                 />
                 <div>
                     <img
+                        alt="typical youtube video type depth"
                         src={simplebank}
                         style={{ width: '300px', height: '180px', animation: 'fadeIn 1s ease-in-out 0.5s forwards' }}
                     />

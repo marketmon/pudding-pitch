@@ -1,8 +1,6 @@
-import React, { useRef, useEffect } from 'react';
-import * as d3 from 'd3';
+import React from 'react';
 import data from './data/data.json';
 import ReactApexChart from 'react-apexcharts';
-import inflation from './data/inflation.json';
 
 
 const LineChart = ({ data }) => {

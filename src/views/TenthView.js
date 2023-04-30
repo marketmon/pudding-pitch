@@ -6,6 +6,7 @@ export default function TenthView() {
             <div style={{ display: 'flex', width: '70vw', justifyContent: 'space-between', alignItems: 'center' }}>
                 <img
                     src={harvard}
+                    alt="harvard finance career chart"
                     style={{ width: '400px', height: 'auto' }}
                 />
                 <div style={{ width: '500px', textAlign: 'center', fontFamily: 'inter', fontSize: '1.2rem' }}>
