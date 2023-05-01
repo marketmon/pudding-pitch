@@ -32,6 +32,9 @@ export default function SixthView() {
             }}>
                 “In one sense… the free market has acquired the status that religion once enjoyed, treated as self evident and inevitable” -LSE
             </div>
+            <div style={{ position: 'absolute', bottom: 0, left: 0, margin: '20px', fontSize: '0.8rem' }}>
+                Source: London School of Economics
+            </div>
         </div>
     )
 }

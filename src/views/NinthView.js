@@ -10,9 +10,13 @@ export default function NinthView() {
                     style={{ width: '500px', height: 'auto' }}
                 />
                 <div style={{ width: '500px', textAlign: 'center', fontFamily: 'inter', fontSize: '1.2rem' }}>
-                    Best not to ask questions because it can be difficult to rationalize why you earn $150,000 to make powerpoints when public school teachers make $40,000 ON AVERAGE
-
+                    My fellow students think the average income in America is atleast six figures...
+                    <br></br>
+                    One even thought it was $800,000
                 </div>
+            </div>
+            <div style={{ position: 'absolute', bottom: 0, left: 0, margin: '20px', fontSize: '0.8rem' }}>
+                Source: Zip Recruiter, Fortune
             </div>
         </div>
     )

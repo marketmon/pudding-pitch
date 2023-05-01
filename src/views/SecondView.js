@@ -13,7 +13,8 @@ export default function SecondView() {
         { x: 234, y: 45 },
         { x: 150, y: 167 },
         { x: 314, y: 96 },
-        { x: 459, y: 126 }
+        { x: 459, y: 126 },
+        { x: 245, y: 197 }
     ];
 
     useEffect(() => {
@@ -27,7 +28,8 @@ export default function SecondView() {
             'national debt',
             'monopolies',
             'offshore accounts',
-            'planned obsolescence'
+            'planned obsolescence',
+            'crippling credit card debt'
         ]);
     }, []);
 

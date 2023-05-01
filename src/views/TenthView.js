@@ -15,6 +15,9 @@ export default function TenthView() {
                     (intellectual and monetary) go for what’s profitable” - Noam Chomsky
                 </div>
             </div>
+            <div style={{ position: 'absolute', bottom: 0, left: 0, margin: '20px', fontSize: '0.8rem' }}>
+                Source: The Crimson, Noam Chomsky
+            </div>
         </div>
     )
 }

@@ -83,8 +83,8 @@ export default function EightView() {
                     <div style={{ marginTop: '60px' }}>
                         Politician Stock Trading
                         <br></br>
-                        in 2021, U.S. lawmakers traded  <a href='https://www.marketwatch.com/story/u-s-lawmakers-traded-an-estimated-355-million-of-stock-last-year-these-were-the-biggest-buyers-and-sellers-11643639354'
-                            style={{ fontSize: '1.4rem', fontWeight: 900 }}> $355M </a>in stocks
+                        in 2021, U.S. lawmakers traded  <span
+                            style={{ fontSize: '1.4rem', fontWeight: 900 }}> $355M </span>in stocks
                     </div>
                 </div>
             </div>

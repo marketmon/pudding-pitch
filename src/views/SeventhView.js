@@ -10,7 +10,7 @@ export default function SeventhView() {
         { text: 'Leave it to the experts', visible: false },
         { text: "You're not rich enough to participate", visible: false },
         { text: "You don't see the benefit because it's indirect", visible: false },
-        { text: "You're crazy", visible: false },
+        { text: "It's the way it has to be", visible: false },
         { text: "You don't see the benefit because it's indirect", visible: false },
     ]);
 

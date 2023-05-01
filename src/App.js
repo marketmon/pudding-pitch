@@ -48,9 +48,13 @@ const ScrollamaDemo = () => {
       case 10:
         return <ElevenView />;
       default:
-        return <div>No component found</div>;
+        return <div></div>;
     }
   };
+
+  const onStepExit = () => {
+    setfunctionToShow(null)
+  }
 
   return (
     <div>
@@ -89,13 +93,13 @@ const ScrollamaDemo = () => {
       </div>
 
       <div style={{ position: 'sticky', top: 0 }}>
-        <Scrollama offset={0.5} onStepEnter={onStepEnter}>
+        <Scrollama offset={0.5} onStepEnter={onStepEnter} onStepExit={onStepExit}>
           <Step data={0} onStepEnter={onStepEnter}>
             <div>
               <div style={{
                 top: 30,
                 margin: 10,
-                width: 'fit-content',
+                width: '600px',
                 backgroundColor: 'black',
               }}>
                 <p style={{
@@ -104,7 +108,7 @@ const ScrollamaDemo = () => {
                   color: 'white',
                   padding: '10px',
                 }}>
-                  Things were supposed to change in 2008
+                  For something that self implodes so often, why do we let it proceed
                 </p>
               </div>
               <div style={{ marginTop: '70vh', display: 'flex', justifyContent: 'right' }}>
@@ -117,9 +121,9 @@ const ScrollamaDemo = () => {
                   color: 'white',
                   backgroundColor: 'black'
                 }}>
-                  they didn't,
+                  nothing as changed,
                   <br></br>
-                  instead things have only gotten crazier
+                  things literally have only gotten crazier
                 </div>
               </div>
             </div>
@@ -423,7 +427,7 @@ const ScrollamaDemo = () => {
               </div>
             </div>
           </Step>
-          <Step data={10} onStepEnter={onStepEnter}>
+          <Step data={10} onStepEnter={onStepEnter} onStepExit={onStepExit}>
             <div>
               <div style={{
                 top: 30,
@@ -438,7 +442,7 @@ const ScrollamaDemo = () => {
                   color: 'white',
                   padding: '10px',
                 }}>
-                  I support making finance simpler and more transparent
+                  I support making finance smaller, simpler, and more transparent
                 </p>
               </div>
               <div style={{ marginTop: '70vh', display: 'flex', justifyContent: 'right' }}>
@@ -451,31 +455,53 @@ const ScrollamaDemo = () => {
                   color: 'white',
                   backgroundColor: 'black'
                 }}>
-                  Better yet, enacting a system that works for the bottom rather the top
+                  the dream is a system that works for the bottom rather the top
                 </div>
               </div>
             </div>
           </Step>
         </Scrollama>
-        <div style={{ marginTop: '30vh', width: '100vw', textAlign: 'center', fontFamily: 'inter', fontSize: '1.5rem' }}>
-          I want to do something about it
+        <div style={{ marginTop: '30vh', width: '100vw', textAlign: 'center', fontFamily: 'inter', fontSize: '1.5rem', display: 'flex', flexDirection: 'column' }}>
+          I want to do something
+          <br></br>
+          <ul style={{ fontSize: '1rem', width: '600px', margin: 'auto', marginTop: '30px' }}>
+            <li>lean on existing formal critques of financialization and neoliberalism</li>
+            <li>embrace the practicality and persuasive power of data</li>
+            <li>wrapped in the approachability and drama of visual essays</li>
+          </ul>
         </div>
-        <div style={{ width: '100vw', marginTop: '10vh', marginBottom: '30vh', display: 'flex', justifyContent: 'center' }}>
+        <div style={{ width: '100vw', marginTop: '10vh', display: 'flex', justifyContent: 'center', fontFamily: 'inter' }}>
           <div style={{ width: '85vw', display: 'flex', flexWrap: 'flex', justifyContent: 'space-between' }}>
-            <div style={{ width: '400px', textAlign: 'center' }}>
-              Option 1: hook people on bank skepticism,
+            <div style={{ width: '400px', textAlign: 'center', padding: '5px', border: 'solid 2px green', display: 'flex', alignItems: 'center' }}>
+              Hook people on bank skepticism,
               reveal complexity and related sketchiness?
               <br></br>
-              How It's Made style
+              Explore how bank balance sheets have changed over time
+              <br></br>
+              How It's Made style, Papa's Pizzeria
             </div>
-            <div style={{ width: '400px', textAlign: 'center' }}>
-              Option 2: An interactive timeline of how we got here,
+            <div style={{ width: '400px', textAlign: 'center', padding: '5px' }}>
+              An interactive timeline of how we got here,
               comparing financial mechanisms along the way
             </div>
-            <div style={{ width: '400px', textAlign: 'center' }}>
-              Option 3: hypocrisy of our capitalistic economy (and entity built upon competition) in contrast to the reality of no competition
+            <div style={{ width: '400px', textAlign: 'center', padding: '5px' }}>
+              Hypocrisy of our capitalistic economy (and entity built upon competition) in contrast to the reality of no competition
+              <br></br>
+              Monopolies, Conglomerates, Portfolios
             </div>
-
+          </div>
+        </div>
+        <div style={{ width: '100vw', marginTop: '10vh', marginBottom: '30vh', display: 'flex', justifyContent: 'center', fontFamily: 'inter' }}>
+          <div style={{ width: '85vw', display: 'flex', flexWrap: 'flex', justifyContent: 'space-between' }}>
+            <div style={{ width: '400px', textAlign: 'center', padding: '5px' }}>
+              Exploration of wages across American and if they reflect true value contributed to the economy
+            </div>
+            <div style={{ width: '400px', textAlign: 'center', padding: '5px' }}>
+              Finance's political influence and the pervasiveness of insider trading
+            </div>
+            <div style={{ width: '400px', textAlign: 'center', padding: '5px' }}>
+              Billionare simulator to show how hard it is to spend your money, but how easy it is to make more of it
+            </div>
           </div>
         </div>
       </div>
