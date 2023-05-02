@@ -2,7 +2,6 @@ import React from 'react';
 import data from './data/data.json';
 import ReactApexChart from 'react-apexcharts';
 
-
 const LineChart = ({ data }) => {
     const chartData = [
         {
@@ -59,6 +58,8 @@ const LineChart = ({ data }) => {
         }
     };
 
+
+
     return (
         <ReactApexChart
             options={chartOptions}
@@ -73,7 +74,6 @@ const LineChart = ({ data }) => {
 
 export default function FifthView() {
 
-
     return (
         <div style={{ width: '100vw', display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap', }}>
             <LineChart data={data} />
@@ -86,7 +86,8 @@ export default function FifthView() {
                     padding: '5px',
                     color: 'white',
                     backgroundColor: 'black',
-                    marginTop: '-10px'
+                    marginTop: '-10px',
+
                 }}>
                     In 2023 Commercial banking was the most profitable industry
                     in the US at $462.5B
